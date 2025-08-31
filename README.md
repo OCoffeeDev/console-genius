@@ -13,8 +13,10 @@ becomes progressively longer at each level.
 2.  The game generates a random sequence of numbers (1--4).\
 3.  At each phase, the sequence is shown, and the player must type the
     exact order.\
-4.  If the input is correct, the player advances to the next phase.\
-5.  If the input is wrong, the game ends with **"You Lose!"**.
+4.  You have to write the number sequence with spaces between the numbers.
+    (EX: 1 2 4 3 2).
+6.  If the input is correct, the player advances to the next phase.\
+7.  If the input is wrong, the game ends with **"You Lose!"**.
 
 
 ## Compilation
